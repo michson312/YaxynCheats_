@@ -16,7 +16,7 @@
 <script type="text/javascript" src="https://www.unknowncheats.me/forum/clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=387"></script><script type="text/javascript" src="https://www.unknowncheats.me/forum/clientscript/yui/connection/connection-min.js?v=387"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "";var SECURITYTOKEN = "1588509492-efcc40dffc7095d8dabd097f46e1fdf88d699159";var IMGDIR_MISC = "ambience/misc";var vb_disable_ajax = parseInt("0", 10);
+var SESSIONURL = "";var SECURITYTOKEN = "1588510039-30b5bd40006c36331e8d9223b1fbbbb64b9e9ace";var IMGDIR_MISC = "ambience/misc";var vb_disable_ajax = parseInt("0", 10);
 // -->
 </script>
 <script type="text/javascript" src="https://www.unknowncheats.me/forum/clientscript/vbulletin_global.js?v=387"></script>
@@ -67,7 +67,7 @@ NcodeImageResizer.MODE='enlarge';NcodeImageResizer.MAXWIDTH=625;NcodeImageResize
 <td width="75" height="25" align="left" valign="top"><a href="//www.unknowncheats.me/forum/faq.php" accesskey="14"><img src="ambience/misc/ambience_nav_faq.png" alt="" title="Frequently asked questions." width="42" height="25" border="0" /></a></td>
 <td width="38" height="25" align="left" valign="top"><a rel="nofollow" href="//www.unknowncheats.me/forum/misc.php?do=discord" accesskey="5"><img src="ambience/misc/ambience_nav_discord.png" alt="" title="This is not a support channel. It's a social chat room for goofing around." height="25" border="0" /></a></td>
 <td width="62" height="25" align="left" valign="top"><a rel="nofollow" href="//www.unknowncheats.me/forum/usercp.php"><img src="ambience/misc/ambience_nav_cp.png" alt="" width="62" height="25" border="0" /></a></td>
-<td width="63" height="25" align="left" valign="top" id="usercptools"><a rel="nofollow" href="https://www.unknowncheats.me/forum/downloads.php?do=file&amp;id=29476&amp;act=down&amp;actionhash=1588509344-1b46c78eea5fdc3b14ea05af6f9286570de991dd&amp;nojs=1#usercptools"><img src="ambience/misc/q_links.gif" alt="" width="63" height="25" border="0" /></a><script type="text/javascript"> vbmenu_register("usercptools" ,1);</script></td>
+<td width="63" height="25" align="left" valign="top" id="usercptools"><a rel="nofollow" href="https://www.unknowncheats.me/forum/downloads.php?do=file&amp;id=29476&amp;act=down&amp;actionhash=1588509975-dd00e55c75d5184e529d838a6e0ae507a6cf48a9&amp;nojs=1#usercptools"><img src="ambience/misc/q_links.gif" alt="" width="63" height="25" border="0" /></a><script type="text/javascript"> vbmenu_register("usercptools" ,1);</script></td>
 <td width="57" height="25" align="left" valign="top" id="navbar_search"><a href="//www.unknowncheats.me/forum/search.php" accesskey="7" rel="nofollow"><img src="ambience/misc/ambience_nav_search.gif" alt="" width="57" height="25" border="0" /></a><script type="text/javascript"> vbmenu_register("navbar_search" ,1); </script></td>
 </tr>
 </table>
@@ -87,7 +87,7 @@ NcodeImageResizer.MODE='enlarge';NcodeImageResizer.MAXWIDTH=625;NcodeImageResize
 <input type="hidden" name="do" value="process" />
 <input type="hidden" name="quicksearch" value="1" />
 <input type="hidden" name="s" value="" />
-<input type="hidden" name="securitytoken" value="1588509492-efcc40dffc7095d8dabd097f46e1fdf88d699159" />
+<input type="hidden" name="securitytoken" value="1588510039-30b5bd40006c36331e8d9223b1fbbbb64b9e9ace" />
 <div><input type="text" class="bginput" name="query" size="25" tabindex="1001" /><input type="submit" class="button" value="Go" tabindex="1004" /></div>
 </td>
 </tr>
@@ -116,7 +116,7 @@ NcodeImageResizer.MODE='enlarge';NcodeImageResizer.MAXWIDTH=625;NcodeImageResize
 <table cellpadding="4" cellspacing="1" border="0">
 <tr><td class="thead">Quick Links</td></tr>
 <tr><td class="vbmenu_option"><a rel="nofollow" href="//www.unknowncheats.me/forum/search.php?do=getdaily&amp;exclude=473,468,472">Today's Posts</a></td></tr>
-<tr><td class="vbmenu_option"><a rel="nofollow" href="//www.unknowncheats.me/forum/forumdisplay.php?do=markread&amp;markreadhash=1588509492-efcc40dffc7095d8dabd097f46e1fdf88d699159">Mark Read</a></td></tr>
+<tr><td class="vbmenu_option"><a rel="nofollow" href="//www.unknowncheats.me/forum/forumdisplay.php?do=markread&amp;markreadhash=1588510039-30b5bd40006c36331e8d9223b1fbbbb64b9e9ace">Mark Read</a></td></tr>
 <tr><td class="vbmenu_option"><a rel="nofollow" href="#" onclick="window.open('//www.unknowncheats.me/forum/misc.php?do=buddylist&amp;focus=1','buddylist','statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=250,height=300'); return false;">Open Buddy List</a></td></tr>
 <tr><td class="thead"><a rel="nofollow" href="//www.unknowncheats.me/forum/usercp.php">User Control Panel</a></td></tr>
 
@@ -172,7 +172,7 @@ NcodeImageResizer.MODE='enlarge';NcodeImageResizer.MAXWIDTH=625;NcodeImageResize
 <div class="panel">
 <div align="left">
 
-<div style="margin: 10px">Slow Down! You are trying to download files too quickly. You must wait 17 seconds before you may download another file.</div>
+<div style="margin: 10px">Slow Down! You are trying to download files too quickly. You must wait 26 seconds before you may download another file.</div>
 
 </div>
 </div>
@@ -445,7 +445,7 @@ NcodeImageResizer.MODE='enlarge';NcodeImageResizer.MAXWIDTH=625;NcodeImageResize
 
 <br />
 <br />
-<div class="smallfont" align="left">All times are GMT. The time now is <span class="time">12:38 PM</span>.</div>
+<div class="smallfont" align="left">All times are GMT. The time now is <span class="time">12:47 PM</span>.</div>
 <br />
 </div>
 </div>
@@ -464,7 +464,7 @@ NcodeImageResizer.MODE='enlarge';NcodeImageResizer.MAXWIDTH=625;NcodeImageResize
 	else document.cookie = f( '0' );
 	window.location.reload();
 };</script>
-<a rel="nofollow" href="/cdn-cgi/l/email-protection#6e1d071a0b0f0a0307002e1b0005000119000d060b0f1a1d40030b">Contact Us</a> -
+<a rel="nofollow" href="/cdn-cgi/l/email-protection#c6b5afb2a3a7a2abafa886b3a8ada8a9b1a8a5aea3a7b2b5e8aba3">Contact Us</a> -
 <a rel="nofollow" href="javascript:toggle_dark_theme();">Toggle Dark Theme</a>
 - <a rel="nofollow" href="showgroups.php">View Staff</a> -
 </strong>
